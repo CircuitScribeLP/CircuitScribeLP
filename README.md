@@ -47,7 +47,7 @@ An IoT-enabled electrolysis monitoring and control system using ESP32 with:
 
 ### 🌐 A Food Ordering Application (Kotlin) - EATZY
 
-A simple personal website showcasing my projects, skills, and research.
+An android application for ordering food and manage your cart by using android studio.
 *(Repo: coming soon)*
 
 ### 📊 A Juice Bar Management System (C) - KOJEK
